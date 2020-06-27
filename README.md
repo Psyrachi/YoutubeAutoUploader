@@ -5,7 +5,7 @@ IMPORTANT INFO
 -
 -
 -
-You must have a folder named 'Thumbnail' and another named 'Video' on your desktop. If you have another location just change the path that the program searches for.
+You must have a folder named 'Thumbnail' and another named 'Video' on your desktop. If you have another location just change the path that the program searches for. You also must change the path that the program searches for. All you need to change is 'YOUR_USERNAME' and as long as you have the two folders on the desktop it should work perfectly.
 -
 You need to have pyautogui installed - it does not come preinstalled in python and must be installed through pip
 -
