@@ -1,6 +1,8 @@
 import pyautogui as pg
 import time
 import sys
+
+
 def openyoutube():
     pg.hotkey('alt', 'tab')
     pg.leftClick(265, 80, .2, .12)
