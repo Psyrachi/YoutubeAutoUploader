@@ -1,10 +1,15 @@
 # YoutubeAutoUploader
 A youtube video uploader
 
-This is my first "big" project - I know it isn't very nice looking but I am really only just starting to code in general and I am working to get better :D
-
-IMPORTANT
-THIS IS MEANT FOR GOOGLE CHROME - IT MAY NOT WORK ON OTHER BROWSERS.
-When using this script you must have two folders on your desktop which sit at the top of your desktop folder with the video and thumbnail (Thumbnail above Video folder).
-There must be no downloads at the bottom of the chrome window.
-The script makes the video title and description CHANGE_ME so you know to change it. At the very end of the program it brings you back to the naming section of the youtube studio uploader.
+IMPORTANT INFO
+-
+-
+-
+You must have a folder named 'Thumbnail' and another named 'Video' on your desktop. If you have another location just change the path that the program searches for.
+-
+You need to have pyautogui installed - it does not come preinstalled in python and must be installed through pip
+-
+This is meant for google chrome, try it on other browsers if you want, it might not work.
+-
+It is optimized for the slowest of computers (I have a really bad laptop) but will run faster on better ones. If you have a good pc change the time.sleep() values to something lesser. It is reccomended to keep them where they are
+-
