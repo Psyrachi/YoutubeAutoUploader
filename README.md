@@ -13,3 +13,5 @@ This is meant for google chrome, try it on other browsers if you want, it might 
 -
 It is optimized for the slowest of computers (I have a really bad laptop) but will run faster on better ones. If you have a good pc change the time.sleep() values to something lesser. It is reccomended to keep them where they are
 -
+Alt tab version switches tabs while search version searches your pc for Chrome
+-
